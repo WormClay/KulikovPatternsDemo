@@ -1,0 +1,7 @@
+D:\GeekBrains обучение\LESSONS\KulikovPatterns\Patterns\Patterns\bin\Debug\Patterns.exe.config
+D:\GeekBrains обучение\LESSONS\KulikovPatterns\Patterns\Patterns\bin\Debug\Patterns.exe
+D:\GeekBrains обучение\LESSONS\KulikovPatterns\Patterns\Patterns\bin\Debug\Patterns.pdb
+D:\GeekBrains обучение\LESSONS\KulikovPatterns\Patterns\Patterns\obj\Debug\Patterns.csproj.AssemblyReference.cache
+D:\GeekBrains обучение\LESSONS\KulikovPatterns\Patterns\Patterns\obj\Debug\Patterns.csproj.CoreCompileInputs.cache
+D:\GeekBrains обучение\LESSONS\KulikovPatterns\Patterns\Patterns\obj\Debug\Patterns.exe
+D:\GeekBrains обучение\LESSONS\KulikovPatterns\Patterns\Patterns\obj\Debug\Patterns.pdb
